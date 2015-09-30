@@ -1,63 +1,63 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>http://ricardocoutinho.github.io/blog/mathjax-example/</loc>
+    <loc>http://ricardocoutinho.me/blog/mathjax-example/</loc>
     <lastmod>2015-08-10T13:08:50+01:00</lastmod>
   </url>
   <url>
-    <loc>http://ricardocoutinho.github.io/blog/hello-world/</loc>
+    <loc>http://ricardocoutinho.me/blog/hello-world/</loc>
     <lastmod>2014-08-08T20:39:55+01:00</lastmod>
   </url>
   <url>
-    <loc>http://ricardocoutinho.github.io/articles/author-override/</loc>
+    <loc>http://ricardocoutinho.me/articles/author-override/</loc>
     <lastmod>2014-06-19T00:00:00+01:00</lastmod>
   </url>
   <url>
-    <loc>http://ricardocoutinho.github.io/articles/code-highlighting-post/</loc>
+    <loc>http://ricardocoutinho.me/articles/code-highlighting-post/</loc>
     <lastmod>2013-08-16T00:00:00+01:00</lastmod>
   </url>
   <url>
-    <loc>http://ricardocoutinho.github.io/articles/sample-link-post/</loc>
+    <loc>http://ricardocoutinho.me/articles/sample-link-post/</loc>
     <lastmod>2013-08-12T00:00:00+01:00</lastmod>
   </url>
   <url>
-    <loc>http://ricardocoutinho.github.io/articles/video-post/</loc>
+    <loc>http://ricardocoutinho.me/articles/video-post/</loc>
     <lastmod>2013-06-25T00:00:00+01:00</lastmod>
   </url>
   <url>
-    <loc>http://ricardocoutinho.github.io/articles/readability-feature-post/</loc>
+    <loc>http://ricardocoutinho.me/articles/readability-feature-post/</loc>
     <lastmod>2013-05-23T00:00:00+01:00</lastmod>
   </url>
   <url>
-    <loc>http://ricardocoutinho.github.io/articles/sample-post-images/</loc>
+    <loc>http://ricardocoutinho.me/articles/sample-post-images/</loc>
     <lastmod>2013-05-22T00:00:00+01:00</lastmod>
   </url>
   <url>
-    <loc>http://ricardocoutinho.github.io/articles/readability-post/</loc>
+    <loc>http://ricardocoutinho.me/articles/readability-post/</loc>
     <lastmod>2012-05-22T00:00:00+01:00</lastmod>
   </url>
   <url>
-    <loc>http://ricardocoutinho.github.io/articles/sample-post/</loc>
+    <loc>http://ricardocoutinho.me/articles/sample-post/</loc>
     <lastmod>2011-03-10T00:00:00+00:00</lastmod>
   </url>
   <url>
-    <loc>http://ricardocoutinho.github.io/</loc>
-    <lastmod>2015-09-30T17:30:55+01:00</lastmod>
+    <loc>http://ricardocoutinho.me/</loc>
+    <lastmod>2015-09-30T17:41:12+01:00</lastmod>
   </url>
   <url>
-    <loc>http://ricardocoutinho.github.io/articles/</loc>
-    <lastmod>2015-09-30T17:30:55+01:00</lastmod>
+    <loc>http://ricardocoutinho.me/articles/</loc>
+    <lastmod>2015-09-30T17:41:12+01:00</lastmod>
   </url>
   <url>
-    <loc>http://ricardocoutinho.github.io/tags/</loc>
-    <lastmod>2015-09-30T17:30:55+01:00</lastmod>
+    <loc>http://ricardocoutinho.me/tags/</loc>
+    <lastmod>2015-09-30T17:41:12+01:00</lastmod>
   </url>
   <url>
-    <loc>http://ricardocoutinho.github.io/about/</loc>
-    <lastmod>2015-09-30T17:30:55+01:00</lastmod>
+    <loc>http://ricardocoutinho.me/about/</loc>
+    <lastmod>2015-09-30T17:41:12+01:00</lastmod>
   </url>
   <url>
-    <loc>http://ricardocoutinho.github.io/blog/</loc>
-    <lastmod>2015-09-30T17:30:55+01:00</lastmod>
+    <loc>http://ricardocoutinho.me/blog/</loc>
+    <lastmod>2015-09-30T17:41:12+01:00</lastmod>
   </url>
 </urlset>
